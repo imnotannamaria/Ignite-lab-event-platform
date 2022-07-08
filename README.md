@@ -5,7 +5,7 @@ Project created at Rocketseat's Ignite Lab event.
 
 Project uses technologies such as:
 - TypeScript
-- react
+- React
 - GraphiQL
 - TailwindCSS
 - React-Router-Dom
