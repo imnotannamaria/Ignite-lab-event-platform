@@ -1,23 +1,26 @@
+<p align="center">
+  <img alt="Event Platform" src=".github/IgniteLab.jpg" width="100%">
+</p>
 
-# Ignite Lab - Event Platform
+## ✨ Technologies
 
-Project created at Rocketseat's Ignite Lab event.
+This project was developed with the following technologies:
 
-Project uses technologies such as:
 - TypeScript
 - React
 - GraphiQL
 - TailwindCSS
 - React-Router-Dom
+- Date Fns
 
-## Deploy
+## 💻 Project
 
-To deploy this project, run
+Project created at Rocketseat's Ignite Lab event, project is a wind platform capable of listing video classes with specific teachers. 
 
-```bash
-  npm i
-```
+## 🚀 Deploy
 
-```bash
-  npm run dev
-```
+- Clone the repository
+- Install dependencies with `npm install`
+- Start the server with `npm run dev`
+
+You can now access [`localhost:3000`](http://localhost:3000) from your browser.
